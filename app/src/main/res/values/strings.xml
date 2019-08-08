@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">B9000v1</string>
+    <string name="home">Home</string>
+    <string name="upload">upload</string>
+    <string name="notifications">Notifications</string>
+    <string name="my_profile">My Profile</string>
+    <string name="movies_and_tv"><![CDATA[Movies & TV]]></string>
+    <string name="education">Education</string>
+    <string name="dank_memes">Dank Memes</string>
 </resources>

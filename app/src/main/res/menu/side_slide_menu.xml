@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@id/homeFragment"
+        android:title="@string/home" />
+
+    <item
+        android:id="@id/searchFragment"
+        android:title="@android:string/search_go" />
+
+    <item
+        android:id="@id/uploadImageFragment"
+        android:title="@string/upload" />
+
+    <item
+        android:id="@id/notificationsFragment"
+        android:title="@string/notifications" />
+
+    <item
+        android:id="@id/profileFragment"
+        android:title="@string/my_profile" />
+
+    <!--TODO - i want a caption(non actionable) that says "categories"-->
+
+    <item
+        android:id="@id/movies_and_tv"
+        android:title="@string/movies_and_tv" />
+    <item
+        android:id="@id/education"
+        android:title="@string/education" />
+    <item
+        android:id="@id/dank_memes"
+        android:title="@string/dank_memes" />
+</menu>
