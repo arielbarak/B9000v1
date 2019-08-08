@@ -22,14 +22,15 @@
         android:title="@string/my_profile" />
 
     <!--TODO - i want a caption(non actionable) that says "categories"-->
+    <!--TODO add Movies&TV, Education, and Dank-->
 
-    <item
-        android:id="@id/movies_and_tv"
-        android:title="@string/movies_and_tv" />
-    <item
-        android:id="@id/education"
-        android:title="@string/education" />
-    <item
-        android:id="@id/dank_memes"
-        android:title="@string/dank_memes" />
+    <!--<item-->
+        <!--android:id="@id/movies_and_tv"-->
+        <!--android:title="@string/movies_and_tv" />-->
+    <!--<item-->
+        <!--android:id="@id/education"-->
+        <!--android:title="@string/education" />-->
+    <!--<item-->
+        <!--android:id="@id/dank_memes"-->
+        <!--android:title="@string/dank_memes" />-->
 </menu>

@@ -9,7 +9,7 @@
         android:id="@+id/homeFragment"
         android:name="com.example.b9000v1.Home.HomeFragment"
         android:label="fragment_home"
-        tools:layout="@layout/fragment_home" >
+        tools:layout="@layout/fragment_home">
         <action
             android:id="@+id/action_homeFragment_to_profileFragment"
             app:destination="@id/profileFragment" />
@@ -24,7 +24,7 @@
         android:id="@+id/searchFragment"
         android:name="com.example.b9000v1.Search.SearchFragment"
         android:label="fragment_search"
-        tools:layout="@layout/fragment_search" >
+        tools:layout="@layout/fragment_search">
         <action
             android:id="@+id/action_searchFragment_to_profileFragment"
             app:destination="@id/profileFragment" />
@@ -33,12 +33,12 @@
         android:id="@+id/uploadImageFragment"
         android:name="com.example.b9000v1.Image.UploadImageFragment"
         android:label="fragment_upload_image"
-        tools:layout="@layout/fragment_upload_image" />
+        tools:layout="@layout/fragment_upload_image"/>
     <fragment
         android:id="@+id/notificationsFragment"
         android:name="com.example.b9000v1.Notifications.NotificationsFragment"
         android:label="fragment_notifications"
-        tools:layout="@layout/fragment_notifications" >
+        tools:layout="@layout/fragment_notifications">
         <action
             android:id="@+id/action_notificationsFragment_to_profileFragment"
             app:destination="@id/profileFragment" />
@@ -47,10 +47,10 @@
         android:id="@+id/profileFragment"
         android:name="com.example.b9000v1.Profile.ProfileFragment"
         android:label="fragment_profile"
-        tools:layout="@layout/fragment_profile" >
+        tools:layout="@layout/fragment_profile">
         <action
             android:id="@+id/action_profileFragment_to_commentsFragment"
-            app:destination="@id/commentsFragment" />
+            app:destination="@id/commentsFragment"/>
         <action
             android:id="@+id/action_profileFragment_to_post"
             app:destination="@id/post" />

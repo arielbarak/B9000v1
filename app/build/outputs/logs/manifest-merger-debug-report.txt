@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-20:12
 MERGED from [androidx.navigation:navigation-ui:2.1.0-alpha02] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\99c82e799e811c7d262a0fdb4cef993d\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\f0f0d2455e4e03c525ef7daf2171ffc2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\571d8b7a789fe51e42a324022d89535f\AndroidManifest.xml:17:1-22:12
@@ -44,25 +44,25 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha04] C:\Users\Hamuta
 MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\4042b1519db0f7c6c51f85817e49b0ca\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\413d58bf4af38775e80545d257b7e414\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\a250552feeb16d709da6e7cba5a626e7\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-20:12
 	package
 		ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-20:12
 		INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:1-20:12
 		INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:5:5-18:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\f0f0d2455e4e03c525ef7daf2171ffc2\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\f0f0d2455e4e03c525ef7daf2171ffc2\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\HamutalB\.gradle\caches\transforms-2\files-2.1\8e766bae334c4b629dd61173bb6e2e41\AndroidManifest.xml:9:5-20
@@ -88,19 +88,19 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\
 	android:theme
 		ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.b9000v1.MainActivity
-ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:12:9-17:20
 	android:name
 		ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:13:13-16:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:14:17-68
 	android:name
 		ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:15:17-76
 	android:name
-		ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml:15:27-74
 uses-sdk
 INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\HamutalB\AndroidStudioProjects\B9000v1\app\src\main\AndroidManifest.xml
